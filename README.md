@@ -11,6 +11,14 @@ The coffee sales data was collected from a YouTube channel since this is a guide
 - Excel
   - Data Cleaning/Preparation
   - Checking for duplicates
-  - Using advanced excel functions to collect data
+  - Using advanced Excel functions to collect data
   - Pivot Table to aggregate data
   - Pivot Chart for appropriate visualization
+
+## Exploratory Data Analysis
+Some business questions were expected to be answered to help the organization identify areas for improvement. While exploring this data, I found answers to the following questions.
+
+1. Who are the top 5 best customers?
+2. What are the total sales over a certain period?
+3. Which of the coffee types do our consumers enjoy the most?
+4. Which country had the best sales last year?
