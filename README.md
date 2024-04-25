@@ -22,3 +22,5 @@ Some business questions were expected to be answered to help the organization id
 2. What are the total sales over a certain period?
 3. Which of the coffee types do our consumers enjoy the most?
 4. Which country had the best sales last year?
+
+## Results/Findings
