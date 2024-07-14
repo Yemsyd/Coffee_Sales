@@ -24,3 +24,8 @@ Some business questions were expected to be answered to help the organization id
 4. Which country had the best sales last year?
 
 ## Results/Findings
+1. Our top 5 best customers are Allis Wilmore, Brenn Dundredge, Terri Farra, Nealson Cuttler, Don Flintiff. Allis Wilmore made the most purchase out of the top 5 with % 21.5 of our total sales.
+Most of our best customers prefers the 2.5kg size of the coffee compared to other sizes. This indicate we can increase production for that size to meet demands of our premium customers.
+2. The united states by far has the best sales in the previous year and our best customers are also from there. We should increase our marketing and production in other countries to boost sales especially
+in United Kingdom and Ireland.
+ 
